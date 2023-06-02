@@ -1,0 +1,14 @@
+{
+  "name": "acha-api",
+  "version": "1.0.0",
+  "description": "acha shenanigans",
+  "main": "index.js",
+  "scripts": {
+    "start": "json-server acha.json"
+  },
+  "author": "iki",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.3"
+  }
+}
