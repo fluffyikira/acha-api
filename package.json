@@ -4,7 +4,7 @@
   "description": "acha shenanigans",
   "main": "index.js",
   "scripts": {
-    "start": "json-server acha.json"
+    "start": "json-server db.json"
   },
   "author": "iki",
   "license": "ISC",
